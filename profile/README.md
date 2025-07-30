@@ -28,13 +28,13 @@ Our self-developed **Grounding Inference Framework** empowers agents not just to
 
 We are proud to host and develop several key open-source projects:
 
-💡 Lybic GuiAgent
+💡 **Lybic GuiAgent**
 
-    An open-source, cross-platform AI assistant for Windows, macOS, and Linux. Built on the Lybic platform, this agent aims to seamlessly integrate intelligence into everyday desktop tasks.
+An open-source, cross-platform AI assistant for Windows, macOS, and Linux. Built on the Lybic platform, this agent aims to seamlessly integrate intelligence into everyday desktop tasks.
 
-💡 Multi-Language SDKs
+💡 **Multi-Language SDKs**
 
-    To ensure easy integration with your existing projects, we provide SDKs for a variety of popular programming languages:
+To ensure easy integration with your existing projects, we provide SDKs for a variety of popular programming languages:
 
 ---
 
